@@ -3,6 +3,8 @@
 
 <img src="assets/aquariumcforlife2.jpg" alt="aquariumcforlife2"  height="400">
 
+- http://shearer12345.github.io/talkQUT2014_Sept/
+- source: https://github.com/shearer12345/talkQUT2014_Sept
 
 
 ##Structure
