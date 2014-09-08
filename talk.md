@@ -1,7 +1,7 @@
-#Creative Play in Public Spaces
-##Shearer - QUT talk - Sept 2014
+##Creative Play in Public Spaces
+###Shearer - QUT talk - Sept 2014
 
-<img src="assets/aquariumcforlife2.jpg" alt="aquariumcforlife2"  height="300">
+<img src="assets/aquariumcforlife2.jpg" alt="aquariumcforlife2"  height="400">
 
 
 ##Links
